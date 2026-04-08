@@ -32,7 +32,7 @@ El mercado energético no se mueve solo por oferta y demanda, sino por **percepc
 ### 1. Monitor de Volatilidad e Índice 100
 Análisis de correlación técnica: Gracias a la normalización, se observa el "desacoplamiento" de precios. El evento **Russia-Ukraine War** registró una volatilidad del **26.14%**, superando el impacto de la Pandemia COVID-19.
 
-![Monitor de Volatilidad](Imagenes/1_volatilidad_index.png)
+![Monitor de Volatilidad](Imagenes/Monitor.png)
 
 ---
 
