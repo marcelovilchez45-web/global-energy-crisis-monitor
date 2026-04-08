@@ -41,7 +41,7 @@ Uso de analítica avanzada para segmentar regiones. Dividí el mapa en 4 cuadran
 * **Zona Crítica (Rojo):** Alta Inflación + Alta Volatilidad (Liderado por Europa).
 * **Zona Resiliente (Verde):** Estabilidad en ambos indicadores.
 
-![Matriz de Eficiencia](Imagenes/2_scatter_cuadrantes.png)
+![Matriz de Eficiencia](Matriz.png)
 
 ---
 
